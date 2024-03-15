@@ -1,0 +1,4 @@
+Flight 1: Dallas, Houston (Time)
+Dallas --> Houston. Time: 59 Cost: 108
+Flight 2: Dallas, Austin (Cost)
+Dallas --> Austin. Cost: 98 Time: 47
